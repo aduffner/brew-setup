@@ -1,4 +1,4 @@
-# brew-setup
+# Homebrew Setup
 
 Brew installieren via:
 ```
